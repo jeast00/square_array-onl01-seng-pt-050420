@@ -5,5 +5,6 @@ def square_array(array)
       return 1
     elsif number > 1
       return number**2
+    end
   end
 end
